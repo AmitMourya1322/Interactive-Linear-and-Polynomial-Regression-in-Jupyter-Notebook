@@ -5,5 +5,5 @@ In this we will create a interactive gui  for curve fitting  using linear and po
 
 
 
-
+Youtube Link : https://youtu.be/170wwujcE7E
 ![intera](https://user-images.githubusercontent.com/30823625/147936226-ac32453a-b927-4636-be7f-f4aae6a62acf.JPG)
